@@ -1,0 +1,25 @@
+{
+  "name": "node-lesson",
+  "version": "1.0.0",
+  "description": "nodeの練習！",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AyaEbata@github.com/AyaEbata/node-lesson.git"
+  },
+  "author": "aya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyaEbata/node-lesson/issues"
+  },
+  "homepage": "https://github.com/AyaEbata/node-lesson#readme",
+  "devDependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^2.4.5",
+    "power-assert": "^1.2.0"
+  }
+}
